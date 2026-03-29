@@ -2,9 +2,9 @@
 
 # Oi, eu sou a Manu! 👋
 
-**Backend Software Engineer · Python · APIs REST · Integrações de Sistemas**
+**Backend Developer · Python · APIs REST · Integrações de Sistemas**
 
-*Conecto sistemas que não falam entre si — de ERPs e CRMs a APIs bancárias e bureaus de crédito.*
+*Automação de processos, integrações entre sistemas e APIs REST são meu dia a dia: conectando diferentes ferramentas e plataformas utilizando principalmente Python.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/emanoele-muller-49b80a192/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manudeazul)
@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Sou engenheira de software backend com foco em **integrações entre sistemas** — conectando ERPs, CRMs, plataformas SaaS e APIs financeiras em ambientes reais de produção.
+Sou desenvolvedora backend com foco em **integrações entre sistemas** — conectando ERPs, CRMs, plataformas SaaS e APIs financeiras em ambientes reais de produção.
 
 Tenho experiência em **ambientes de alta escala** (Americanas S.A.) e **fintechs**, com histórico de automação de processos manuais e entrega consistente em squads ágeis. Trabalho com Python no dia a dia, mas já passei por Go, FlutterFlow e soluções low-code — o que me dá uma visão ampla para escolher a melhor abordagem pra cada problema.
 
